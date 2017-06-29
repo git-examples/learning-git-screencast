@@ -12,6 +12,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello world!");
 
+            string line = Console.ReadLine();
+
+            int x = int.Parse(line);
+
             Console.ReadLine();
         }
     }
