@@ -16,7 +16,7 @@ namespace HelloWorld
 
             int x = int.Parse(line);
 
-            Console.WriteLine(x * x);
+            Console.WriteLine(x * 4);
 
             Console.ReadLine();
         }
