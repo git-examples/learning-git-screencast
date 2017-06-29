@@ -1,6 +1,0 @@
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
-C:\Work\Github\learning-git-screencast\src\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
