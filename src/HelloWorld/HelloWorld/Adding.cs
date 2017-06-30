@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace HelloWorld
 {
@@ -13,6 +14,8 @@ namespace HelloWorld
             {
                 throw new ArgumentOutOfRangeException();
             }
+
+            Console.WriteLine("x = " + x);
 
             return x + y;
         }
