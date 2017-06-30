@@ -21,6 +21,8 @@ namespace HelloWorld
             Console.WriteLine("Feature A");
             Console.WriteLine("Feature B");
 
+            Console.WriteLine("Feature C");
+
             Console.ReadLine();
         }
     }
