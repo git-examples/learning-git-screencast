@@ -25,6 +25,8 @@ namespace HelloWorld
             // Fix bug
             Console.WriteLine("Feature D");
 
+            Console.WriteLine("Feature E");
+
             Console.ReadLine();
         }
     }
