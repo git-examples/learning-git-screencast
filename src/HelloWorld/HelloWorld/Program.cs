@@ -19,6 +19,7 @@ namespace HelloWorld
             Console.WriteLine("x * 4 = " + (x * 4));
 
             Console.WriteLine("Feature A");
+            Console.WriteLine("Feature B");
 
             Console.ReadLine();
         }
