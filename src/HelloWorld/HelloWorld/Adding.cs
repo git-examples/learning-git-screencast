@@ -2,6 +2,9 @@
 
 namespace HelloWorld
 {
+    /// <summary>
+    /// Class for Adding
+    /// </summary>
     public class Adding
     {
         public int Calculate(int x, int y)
