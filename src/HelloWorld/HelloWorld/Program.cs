@@ -16,7 +16,7 @@ namespace HelloWorld
 
             int x = int.Parse(line);
 
-            Console.WriteLine("x * 4 = " + (x * 4));
+            Console.WriteLine("x * 4 = " + (x * 4)); // another bugs
 
             Console.WriteLine("Feature A");
             Console.WriteLine("Feature B");
